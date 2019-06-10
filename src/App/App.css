@@ -1,0 +1,18 @@
+* {
+    border: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #473643;
+    color: #fff;
+}
+
+.banner {
+    font-size: 4em;
+    padding: 20px;
+    text-align: center;
+    background-color: #FF8C42;
+    color: #000;
+}
+
